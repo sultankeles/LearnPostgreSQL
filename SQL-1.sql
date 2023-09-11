@@ -199,8 +199,8 @@
 -- FROM employees
 -- WHERE job = 'Sales';
 
--- SELECT *
--- FROM employees
--- WHERE job = 'Sales' LIMIT 10;
+SELECT *
+FROM employees
+WHERE job = 'Sales' LIMIT 10;
 
-SELECT * FROM employees WHERE job = 'Sales' LIMIT 5;
+-- SELECT * FROM employees WHERE job = 'Sales' LIMIT 5;
